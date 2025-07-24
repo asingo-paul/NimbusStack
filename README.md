@@ -2,9 +2,6 @@
 An open, lightweight cloud platform designed to create and manage virtualized infrastructure with simplicity and scale in mind – from a single node to global cloud deployments.
 
 
-Alright, let’s build your first cloud platform using Proxmox VE step by step.
-This will give you a mini AWS-like environment on your own machine.
-
 ## PHASE 1: PREPARE YOUR HARDWARE & NETWORK
 Requirements
     • Machine: Desktop/Laptop with:
