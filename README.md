@@ -4,12 +4,12 @@ An open, lightweight cloud platform designed to create and manage virtualized in
 
 ## PHASE 1: PREPARE YOUR HARDWARE & NETWORK
 Requirements
-    • Machine: Desktop/Laptop with:
+- Machine: Desktop/Laptop with:
         ◦ 64-bit CPU with virtualization support (Intel VT-x or AMD-V)
         ◦ 8GB+ RAM (16GB recommended)
         ◦ 250GB+ SSD
-    • Network: Stable wired internet connection preferred.
-    • Second computer or same machine with dual boot to access Proxmox dashboard after install.
+- Network: Stable wired internet connection preferred.
+- Second computer or same machine with dual boot to access Proxmox dashboard after install.
 
 ## PHASE 2: DOWNLOAD & PREPARE PROXMOX
     1. Download Proxmox VE ISO
